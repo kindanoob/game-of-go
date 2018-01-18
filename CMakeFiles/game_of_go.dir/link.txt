@@ -1,1 +1,0 @@
-/usr/bin/c++      CMakeFiles/game_of_go.dir/src/v1.cpp.o  -o game_of_go -rdynamic -lsfml-network -lsfml-audio -lsfml-graphics -lsfml-window -lsfml-system 

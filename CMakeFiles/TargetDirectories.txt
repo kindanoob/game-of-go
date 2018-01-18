@@ -1,3 +1,0 @@
-/home/kekplusplus/git/go/CMakeFiles/rebuild_cache.dir
-/home/kekplusplus/git/go/CMakeFiles/edit_cache.dir
-/home/kekplusplus/git/go/CMakeFiles/game_of_go.dir
