@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/kekplusplus/git/go/src/v1.cpp
+iostream
+-
+unordered_map
+-
+string
+-
+limits
+-
+array
+-
+chrono
+-
+thread
+-
+vector
+-
+algorithm
+-
+math.h
+-
+numeric
+-
+queue
+-
+iterator
+-
+SFML/Graphics.hpp
+-
+

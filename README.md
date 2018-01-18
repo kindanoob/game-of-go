@@ -1,6 +1,7 @@
 # game_of_go
 Implementation of game of go (also known as baduk, weiqi) in C++ using SFML.
-Currently there is only GUI part, AI is still to be implemented.
+Currently there is a very basic GUI and random AI implemented.
+
 
 Requirements: 1) C++11, 2) SFML 2.3.2
 
